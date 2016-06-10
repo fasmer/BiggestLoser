@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BiggestLoser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BiggestLoser_jar</output-path>
+    <root id="archive" name="BiggestLoser.jar">
+      <element id="module-output" name="BiggestLoser" />
+    </root>
+  </artifact>
+</component>
